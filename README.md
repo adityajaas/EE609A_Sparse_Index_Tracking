@@ -1,5 +1,5 @@
 # EE609A Spring 2021: Term project on Sparse Index Tracking
-**Term project based on Sparse Index Tracking for Passive Investment**\
+**Review on Sparse Index Tracking techniques for Passive Investment**\
 **By [Aditya Singh](https://github.com/adityajaas) and Varun Gadre**
 
 Code in MATLAB
