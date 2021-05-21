@@ -1,4 +1,4 @@
-# EE609A_Sparse_Index_Tracking
+# EE609A Spring 2021: Term project on Sparse Index Tracking
 **Term project based on Sparse Index Tracking for Passive Investment**\
 **By [Aditya Singh](https://github.com/adityajaas) and Varun Gadre**
 
